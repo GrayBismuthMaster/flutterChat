@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "732350970131",
+    "project_id": "chatappespe",
+    "storage_bucket": "chatappespe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732350970131:android:9e8f9664f9c4b2207902e6",
+        "android_client_info": {
+          "package_name": "com.example.espe_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "732350970131-pagk83rnde5vsadoc5quomtk1dimakv9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtqj7moz-NI3rHYVP5MRabmFpGdyd9dD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "732350970131-pagk83rnde5vsadoc5quomtk1dimakv9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "732350970131-efjphuug99gl6ddueqqsohgcs8lp2b2m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.arunbalaji.letschat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
